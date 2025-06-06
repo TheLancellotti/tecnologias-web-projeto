@@ -1,0 +1,40 @@
+{
+  "habilidades": [
+    {
+      "id": 1,
+      "titulo": "Navegação Marítima",
+      "descricao": "Capitão experiente, capaz de conduzir o Pérola Negra por águas traiçoeiras."
+    },
+    {
+      "id": 2,
+      "titulo": "Combate com Espada",
+      "descricao": "Mestre em duelos com sabres e técnicas de pirataria avançadas."
+    },
+    {
+      "id": 3,
+      "titulo": "Negociação e Persuasão",
+      "descricao": "Especialista em sair de encrencas com lábia e charme."
+    }
+    ,
+    {
+      "id": 4,
+      "titulo": "Tiro ao Alvo",
+      "descricao": "Habilidade excepcional com pistolas e mosquetes em situações de combate."
+    },
+    {
+      "id": 5,
+      "titulo": "Leitura de Mapas",
+      "descricao": "Capaz de decifrar mapas antigos e encontrar rotas secretas."
+    },
+    {
+      "id": 6,
+      "titulo": "Liderança de Tripulação",
+      "descricao": "Motiva e comanda a tripulação mesmo nas situações mais adversas."
+    },
+    {
+      "id": 7,
+      "titulo": "Furtividade",
+      "descricao": "Especialista em infiltração e escapadas silenciosas."
+    }
+  ]
+}
